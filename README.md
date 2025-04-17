@@ -1,5 +1,5 @@
 # Ai-Object-Detection
-This project uses AI to perform real-time object detection directly in your browser using your device's camera. It captures video input, processes each frame using a pre-trained AI model, and draws bounding boxes with labels and confidence scores for detected objects.
+This project utilizes a real-time object detection model, COCO-SSD, served through the ml5.js library, which runs entirely in the browser. Leveraging computer vision and deep learning techniques, the application is capable of detecting and identifying common objects in live video streams without the need for custom model training or backend infrastructure.
 
 link : https://harshsinha09.github.io/Ai-Object-Detection/
 
